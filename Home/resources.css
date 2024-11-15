@@ -1,0 +1,32 @@
+.bn2{
+    background-color: #1A3866;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: #1A3866;
+    width: 140px;
+    border: 1px solid #1A3866;
+}
+
+.bn1 {
+    background-color: #FFFFFF;
+    color: 181D26;
+    border-radius: 10px;
+    border: #FFFFFF;
+    width: 140px;
+    border: 1px solid rgb(208, 207, 207);
+}
+ul li{
+    list-style-type: none;
+}
+.div1{
+    background-color: rgb(202, 202, 202);
+    padding-bottom: 20px;
+    border-radius: 5%;
+}
+.mobicon{
+    margin-left: 270px;
+}
+.btn3{
+    height: 100%;
+    width: 50%;
+}

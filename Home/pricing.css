@@ -1,0 +1,58 @@
+.div1{
+    border: 1px solid gray;
+    padding: 20px 20px;
+    border-radius: 5%;
+}
+.bn2{
+    background-color: #1A3866;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: #1A3866;
+    width: 140px;
+    border: 1px solid #1A3866;
+}
+
+.bn1 {
+    background-color: #FFFFFF;
+    color: 181D26;
+    border-radius: 10px;
+    border: #FFFFFF;
+    width: 140px;
+    border: 1px solid rgb(208, 207, 207);
+}
+.signup{
+    padding-left: 75px;
+    padding-right: 75px;
+    background-color: transparent;
+}
+.para2{
+    background-color: aquamarine;
+    background-size: cover;
+    border-radius: 20%;
+    padding: 3px;
+}
+.bn4{
+    padding-left: 75px;
+    padding-right: 75px;
+    background-color: rgb(50, 50, 225);
+    color: white;
+    border-color: transparent;
+
+}
+.bn5{
+    padding-left: 65px;
+    padding-right: 65px; 
+    background-color: transparent;
+}
+.bn6{
+    padding-left: 65px;
+    padding-right: 65px; 
+    background-color: white;
+    color: black;
+    
+}
+.stars{
+    height: 30%;
+    width: 30%;
+    color: rgb(213, 213, 213);
+}

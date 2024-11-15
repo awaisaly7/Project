@@ -1,0 +1,120 @@
+
+.navdiv2{
+    justify-content: space-around;
+    justify-content: space-between;
+    display: flex;
+    
+}
+.bn2{
+    background-color: #254FAD;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: #1A3866;
+    width: 140px;
+    border: 1px solid #1A3866;
+}
+
+.bn1 {
+    background-color: #FFFFFF;
+    color: 181D26;
+    border-radius: 10px;
+    border: #FFFFFF;
+    width: 140px;
+    border: 1px solid rgb(208, 207, 207);
+}
+ul li{
+    list-style-type: none;
+}
+#sec1{
+    background-image: url(Assests/bgimg.png);
+}
+.dd{
+  height: 4%;
+  width: 4%;  
+}
+
+.head1{
+    color: #1A3866;
+    font-size: 64px;
+}
+
+.btn1{
+    background-color: #1A3866;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: #1A3866;
+    width: 180px;
+    border: 2px solid #1A3866;
+}
+
+.btn2{
+    background-color: #FFFFFF;
+    color: 181D26;
+    border-radius: 10px;
+    border: #FFFFFF;
+    width: 180px;
+    border: 2px solid rgb(208, 207, 207);
+}
+.para1{
+    color: #254FAD;
+}
+.banner{
+    background-image: url(Assests/bgimg.png);
+    height: 10%px;
+    width: 100%;
+}
+.div6{
+    border-top: 2px solid blue;
+}
+.div7{
+    background-color: rgb(244, 218, 244);
+    padding: 60px 50px;
+}
+.div7 p{
+    font-size: 13px;
+}
+.btn3{
+    background-color: #FFFFFF;
+    color: 181D26;
+    background-color: transparent;
+    border-radius: 10px;
+    border: #FFFFFF;
+    width: 150px;
+    border: 2px solid rgb(208, 207, 207);
+}
+.head3{
+    color: #622CA0;
+}
+.btn4{
+    background-color: #FFFFFF;
+    color: 181D26;
+    background-color: transparent;
+    border-radius: 7px;
+    border: #FFFFFF;
+    width: 200px;
+    height: 35px;
+    border: 2px solid rgb(208, 207, 207);
+}
+.ch2{
+    width: 80px;
+    height: 80px;
+    margin-top: 23px;
+}
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+#sec3{
+    background-image: url(Assests/bgimg.png);
+    padding: 70px;
+}
+#sec4{
+    background-image: url(Assests/bgimg.png);
+}
+.div8{
+    align-items: end;
+    display: flex;
+    justify-content: end;
+}

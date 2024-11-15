@@ -1,0 +1,23 @@
+.stackend .slide1 {
+    background-image: url(https://api.stackend.com/media/get/c71/cms/mitchell-orr-389605-unsplash-jpg.jpg);
+    color:white;
+    padding:50px;
+    font-size:3em;
+    height:60vw;
+    width:100%;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center top;
+    }
+    
+    .stackend .slide2 {
+    background-image: url(https://api.stackend.com/media/get/c71/cms/wade-austin-ellis-677123-unsplash-jpg.jpg);
+    color:white;
+    padding:50px;
+    font-size:3em;
+    height:60vw;
+    width:100%;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center top;
+    }
